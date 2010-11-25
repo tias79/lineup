@@ -1,0 +1,4 @@
+<move id="move1">
+	<from>frompath</from>
+	<to ref="toid"/>
+</move>

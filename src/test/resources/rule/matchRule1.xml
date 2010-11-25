@@ -1,0 +1,7 @@
+<match id="match1">
+	<input ref="input" />
+	<exp>.*</exp>
+	<assign id="two" no="2" />
+	<assign id="one" no="1" />
+	<assign id="three" no="3" />
+</match>

@@ -1,0 +1,4 @@
+<copy id="copy1">
+	<from>frompath</from>
+	<to ref="toid"/>
+</copy>

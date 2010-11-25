@@ -1,0 +1,5 @@
+<concat id="concat1">
+	<part ref="one" ord="1" />
+	<part ref="three" ord="3" />
+	<part ref="four" ord="4" />
+</concat>

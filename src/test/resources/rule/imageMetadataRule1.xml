@@ -1,0 +1,6 @@
+<imageMetadata id="imageMetadata1">
+	<input ref="input" />
+	<assign id="tw" tag="two" />
+	<assign id="on" tag="one" />
+	<assign id="th" tag="three" />
+</imageMetadata>
